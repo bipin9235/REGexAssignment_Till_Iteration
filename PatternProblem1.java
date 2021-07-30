@@ -1,9 +1,12 @@
-/*
- *  0
+/*#Task-8: To Draw Pattern below
+ *  	0
 	10
 	101
 	0101
 	01010
+	
+	Registration ID: JIRSS1132
+	Name: Bipin Kumar
  */
 package till_Iteration_Statement;
 
