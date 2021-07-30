@@ -1,6 +1,8 @@
 /*
- * Write a program to read the numbers until -1 is encountered. Also count the negative, positives
-	and zeros entered by user?
+ *#Task-7: Write a program to read the numbers until -1 is encountered. Also count the negative, positives
+	and zeros entered by user
+Registration ID: JIRSS1132
+Name: Bipin Kumar
  */
 package till_Iteration_Statement;
 import java.util.Scanner;
