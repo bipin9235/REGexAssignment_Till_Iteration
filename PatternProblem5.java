@@ -1,5 +1,5 @@
-/*WAP to draw pattern
- *      $$$$$$$$$
+/* #Task-11: Write a Program to draw pattern
+ *      	$$$$$$$$$
 		$$$$ $$$$
 		$$$   $$$
 		$$     $$
@@ -9,6 +9,8 @@
 		$$$$ $$$$
 		$$$$$$$$$
 
+	Registration ID: JIRSS1132
+	Name: Bipin Kumar
  */
 package till_Iteration_Statement;
 
