@@ -1,3 +1,14 @@
+/*
+ * #Task-10: Write a program to draw pattern
+ *   1
+    232
+   34543
+  4567654
+ 567898765
+ 
+ Registration ID: JIRSS1132
+ Name: Bipin Kumar
+ */
 package till_Iteration_Statement;
 
 public class PatternProblem3 {
